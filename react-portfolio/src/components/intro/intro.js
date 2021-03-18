@@ -1,7 +1,7 @@
 import React from "react";
  // import './intro/intro.css';
 
-function Header() {
+function Intro() {
   return (
     <div className="header">
       <h2>About Me!</h2>
@@ -19,4 +19,4 @@ function Header() {
 }
 
 
-export default Header;
+export default Intro;
