@@ -1,5 +1,22 @@
-header {
-  
-    background-image: url("./images/backgroundheader.jpg");
 
+
+h1 {
+    color: #ff9999 ;
+    background-color: #666699;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.header nav ul li {
+
+    color: lightgray;
+    display: inline ;
+    margin-left: 75%;
+    
+}
+
+a {
+    color: #ff9999;
+    display: inline;
+    font-size: 20px;
 }

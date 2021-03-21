@@ -1,0 +1,16 @@
+hr {
+    background-color: #333333 ;
+    height: 10px ;
+    border-color: #333333 ;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px ;
+   /* margin-left: 30px ; */
+   text-align: center ;
+}
+
+p {
+    text-align: center ;
+}

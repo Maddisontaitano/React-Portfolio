@@ -1,5 +1,5 @@
 import React from "react";
- // import './intro/intro.css';
+ import './intro.css';
 
 function Intro() {
   return (
@@ -13,6 +13,12 @@ function Intro() {
             so that is where I was first introduced. I took a coding class in highschool which
              peeked my interest, and that started the journey!
         </p>   
+
+        <hr></hr>
+
+        <h2 class=" title">
+        work!
+        </h2>
 
     </div>
   );
