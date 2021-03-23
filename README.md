@@ -9,6 +9,8 @@
          aligned in the center and positioned in relation to 
          each other was a little more thought-provoking than I 
          had intended.
+         
+    Link to deployed application! --> https://maddisontaitano.github.io/React-Portfolio/
     
 
  ## Table Of Contents
