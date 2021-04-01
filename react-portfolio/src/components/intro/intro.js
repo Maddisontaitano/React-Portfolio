@@ -1,5 +1,5 @@
 import React from "react";
- import './intro.css';
+import './intro.css';
 
 function Intro() {
   return (
@@ -15,11 +15,6 @@ function Intro() {
         </p>   
 
         <hr></hr>
-
-        <h2 class=" title">
-        work!
-        </h2>
-
     </div>
   );
 }
