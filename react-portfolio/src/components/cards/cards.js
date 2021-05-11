@@ -75,7 +75,7 @@ function cards() {
             <p class="label">
                 Work Day Scheduler 
             </p>
-            <a href={"https://github.com/Maddisontaitano/workScheduler"}>
+            <a href={"https://github.com/Maddisontaitano/React-WorkDay-Scheduler"}>
             <img src={tree} alt=""/>
             </a>
          </div>
@@ -91,9 +91,9 @@ function cards() {
 
          <div class="card img item">
             <p class="label">
-                Student Bio assignemnt
+                Animal-Kingdom (Final group project)
             </p>
-            <a href={"https://github.com/Maddisontaitano/Project2"}>
+            <a href={"https://github.com/Asieger75/Animal-Kingdom"}>
                 <img src={city} alt=""/>
                 </a>
          </div>
